@@ -34,5 +34,4 @@ function getAllProducts()
     return $products;
 }
 
-// You can create similar functions to handle user registration, login, adding products to the cart, placing orders, etc.
 ?>
